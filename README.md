@@ -66,12 +66,10 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
-
+<!-- 
 ## 🥳 Some of my projects
 
-- [RentMeNow for booking cars](https://rentmenow.netlify.app) - **Recommended** ✨
-- [Professional website for a company](https://co-ius.netlify.app/) - **Recommended** ✨
-- [Todo List app](https://daalimouhcine.github.io/Todo_List/) 
+- [RentMeNow for booking cars](https://rentmenow.netlify.app) - **Recommended** ✨ -->
 
 <!-- ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg)  -->
 
